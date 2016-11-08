@@ -1,1 +1,1 @@
-# NiaHash
+Hash function implementation with Java primitive types only
